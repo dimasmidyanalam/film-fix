@@ -1,7 +1,7 @@
 # film-fix
 
 
-[ Final Project Pemograman Aplikasi Mobie ]
+[ Final Project Pemograman Aplikasi Mobile ]
 
 
 
